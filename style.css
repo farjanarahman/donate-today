@@ -150,7 +150,7 @@ hr{
 .input-field{
     background-color: #FFF4D6;
     width: 50%;
-    padding: 30px 50px;
+    padding: 50px 80px;
     margin: auto;
 }
 
@@ -173,4 +173,26 @@ hr{
 
 .email-field .btn{
     border-radius: 0px 5px 5px 0px ;
+}
+
+.footer{
+    background-color: black;
+    height: 20vh;
+    margin-top: 100px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.footer-text h2{
+    font-size: 32px;
+    color: #FF5959;
+    font-style: italic;
+}
+
+.footer-text p{
+    color: white;
+    margin-top: 20px;
 }
